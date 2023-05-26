@@ -1,0 +1,1 @@
+<button class="block__catalog-button catalogBlock__button">добавить в корзину</button>

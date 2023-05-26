@@ -1,0 +1,15 @@
+<?php
+
+namespace App\Http\Controllers;
+
+use Illuminate\Http\Request;
+
+class CartIteimController extends Controller
+{
+
+    public function show($id){
+        return view('pages.cartitem',[
+            'id'=>$id
+        ]);
+    }
+}

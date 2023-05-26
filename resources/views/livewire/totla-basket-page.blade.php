@@ -1,0 +1,1 @@
+<p class="buy__price-price">{{$total}} руб.</p>
